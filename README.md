@@ -13,15 +13,16 @@ A modern product catalog built with Next.js and Sanity CMS, featuring server-sid
 
 ## Screenshots
 
-![Screenshot 1][screenshot1]
-![Screenshot 2][screenshot2]
-![Screenshot 3][screenshot3]
-![Screenshot 4][screenshot4]
-
-[screenshot1]: https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/1.png "Screenshot 1"
-[screenshot2]: https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/2.png "Screenshot 2"
-[screenshot3]: https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/3.png "Screenshot 3"
-[screenshot4]: https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/4.png "Screenshot 4"
+<table>
+  <tr>
+    <td><img src="https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/1.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/2.png" alt="Screenshot 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/3.png" alt="Screenshot 3" width="400"/></td>
+    <td><img src="https://github.com/binbalenci/nextjs-sanity-storefront/raw/main/public/screenshots/4.png" alt="Screenshot 4" width="400"/></td>
+  </tr>
+</table>
 
 ## Prerequisites
 
