@@ -11,6 +11,19 @@ A modern product catalog built with Next.js and Sanity CMS, featuring server-sid
 - Image optimization
 - Type-safe queries
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="/public/screenshots/1.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="/public/screenshots/2.png" alt="Screenshot 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="/public/screenshots/3.png" alt="Screenshot 3" width="400"/></td>
+    <td><img src="/public/screenshots/4.png" alt="Screenshot 4" width="400"/></td>
+  </tr>
+</table>
+
 ## Prerequisites
 
 - Node.js 18.x or later
