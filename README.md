@@ -22,8 +22,8 @@ A modern product catalog built with Next.js and Sanity CMS, featuring server-sid
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/nextjs-benjamin-product-catalog.git
-   cd nextjs-benjamin-product-catalog
+   git clone https://github.com/binbalenci/nextjs-sanity-storefront.git
+   cd nextjs-sanity-storefront
    ```
 
 2. Install dependencies:
@@ -38,8 +38,7 @@ A modern product catalog built with Next.js and Sanity CMS, featuring server-sid
 
    ```
    NEXT_PUBLIC_SANITY_PROJECT_ID=your_project_id
-   NEXT_PUBLIC_SANITY_DATASET=production
-   SANITY_API_TOKEN=your_api_token
+   NEXT_PUBLIC_SANITY_DATASET=your_dataset_id
    ```
 
 4. Run the development server:
