@@ -20,8 +20,10 @@
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@tailwindcss/typography": "^0.5.16",
+    "@typescript-eslint/parser": "^8.29.1",
     "eslint": "^9",
     "eslint-config-next": "15.2.5",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4",
+    "typescript": "^5.8.3"
   }
 }
